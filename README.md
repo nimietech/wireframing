@@ -29,7 +29,7 @@ Wireframes provide a clear and simple representation of the layout, allowing des
 
 • Functionality: Outlines key functionalities and interactions.
 
-# Types of Wireframes
+# “Types of Wireframes.”
 
 • Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 
